@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 20px;
+    z-index:50;
+}
+
+.header{
+    margin: 0 auto;
+    display: block;
+    margin: 0 auto;
+    transform: translateY(-200px)
+    }
