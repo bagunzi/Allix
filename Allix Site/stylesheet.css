@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+}
+
+.header{
+    margin: 0 auto;
+    display: block;
+    margin: 0 auto;
+    transform: translateY(-200px)
+    }
